@@ -23,7 +23,7 @@ export default function AboutsText() {
         </ul>
         <br/>
         <p className="relative mt-5 w-full max-w-md sm:max-w-sm whitespace-normal">
-          What's My Servise Contact to my Email!
+          What's My Servise ? Contact to my Email !
         </p>
       </div>
     </motion.section>
