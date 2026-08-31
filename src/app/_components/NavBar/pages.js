@@ -12,7 +12,6 @@ export default function Navbar() {
   const navLinks = [
     { text: "關於我", href: "/" },
     { text: "聯絡我", href: "/contact" },
-    { text: "友站連結", href: "/friends" },
   ];
 
   return (
