@@ -10,9 +10,9 @@ export default function ContactPage() {
         "linkAction": "GET"
       },
       {
-        "text": "LinkedIn",
+        "text": "Linkedin",
         "linkRel": "LinkedinIn_Link",
-        "linkHref": "https://www.linkedin.com/in/ronkaotw/",
+        "linkHref": "https://www.linkedin.com/in/ronkaotw",
         "linkAction": "GET"
       },
       {

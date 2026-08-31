@@ -28,10 +28,10 @@ export default function Portfolio() {
             >
               <div>
                 <h2 className="text-lg font-bold text-gray-900 truncate">
-                  Backend_Portfolio
+                  Backend Portfolio
                 </h2>
                 <p className="text-sm text-gray-700">2019-2025</p>
-                <p className="text-sm text-gray-700">Backend Developer</p>
+                <p className="text-sm text-gray-700">Backend</p>
                 <p className="text-sm text-gray-700">Node.js, Express, PostgreSQL, MongoDB</p>
               </div>
             </div>
