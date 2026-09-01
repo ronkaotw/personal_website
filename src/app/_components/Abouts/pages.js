@@ -19,12 +19,12 @@ export default function AboutComponents({ scrolling }) {
 
       <div className="flex flex-col items-center max-w-md">
         <h2 className="text-3xl text-center sm:text-4xl md:text-5xl font-bold mb-4">
-          這裡是
+          I'm Aaron
           <span className="block text-[50px] sm:text-[60px] md:text-[70px]">
             Aaron
           </span>
         </h2>
-        <p className="text-lg sm:text-xl mb-6">所有的作品集都會在這</p>
+        <p className="text-lg sm:text-xl mb-6">My all portfolio always be here</p>
       </div>
       
       <div className="w-full flex justify-center absolute bottom-5 md:bottom-20">

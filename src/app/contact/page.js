@@ -26,7 +26,7 @@ export default function ContactPage() {
     <motion.section initial={{ opacity: 0, y: 50 }} whileInView={{ opacity: 1, y: 0 }} className="section-container text-center">
 
         <div className="w-[500px] rounded-3xl flex-col-center gap-6 p-6">
-          <h2 className="text-2xl">聯絡我</h2>
+          <h2 className="text-2xl">Contact Me</h2>
 
            {contactItems.map((contact, index) => (
           <a

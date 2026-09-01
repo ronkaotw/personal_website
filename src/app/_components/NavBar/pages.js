@@ -10,8 +10,8 @@ export default function Navbar() {
   const { t } = useTranslation();
 
   const navLinks = [
-    { text: "關於我", href: "/" },
-    { text: "聯絡我", href: "/contact" },
+    { text: "About Me", href: "/" },
+    { text: "Contact Me", href: "/contact" },
   ];
 
   return (
