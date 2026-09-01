@@ -10,8 +10,6 @@ export default function Portfolio() {
     >
       <div className="flex-col-center text-center">
         <h2 className="section-title">Portfolio</h2>
-        <hr className="section-divider" />
-        <p className="section-subtitle">作品集</p>
       </div>
 
       <div className="w-full flex flex-wrap justify-center gap-8">
